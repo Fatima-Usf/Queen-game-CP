@@ -1,2 +1,2 @@
 # Queen-game-CP
-jeux de Queen en utilisant
+Jeux de Queen en utilisant la programmation par contrainte 
